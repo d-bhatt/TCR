@@ -1,4 +1,8 @@
+
 # TCR Model: T-cell repertoire dynamics in response to antigen stimuli 
+<p align="center">
+<img src="https://github.com/d-bhatt/TCR/blob/main/TCR_icon.svg" width="200" />
+</p
 
 ## Overview
 
